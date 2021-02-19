@@ -1,5 +1,5 @@
 # DocumentTagging
-I got a bunch of Train_docs and Train_tags. The tags are of variable number for each train_doc. Here are the approached I thought of:
+I got a bunch of Train_docs and Train_tags. The tags are of variable number for each train_doc. Here are the approaches I thought of:
 
 Approach 1: Using LexNLP Package:   
             This is a very specialized NLP package for legal documents. But it has certain limitations. It runs only in python 3.6.
